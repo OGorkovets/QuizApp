@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="action_settings">Nothing here</string>
+    <string name="rand1"></string>
+    <string name="rand2"></string>
+    <string name="total"></string>
+    <string name="correct"></string>
+    <string name="restart"></string>
+</resources>
